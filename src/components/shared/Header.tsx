@@ -19,7 +19,7 @@ export function Header() {
             <Wallet size={20} className="text-primary-foreground" />
           </div>
           <span className="text-lg">
-            <span className="text-muted-foreground font-medium">Planej</span>
+            <span className="text-muted-foreground font-medium">Reserv</span>
             <span className="font-extrabold">.ai</span>
           </span>
         </div>

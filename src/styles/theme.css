@@ -1,17 +1,17 @@
 @layer base {
   :root,
   [data-theme='light'] {
-    --background: #f8fafc;
-    --foreground: #0f1729;
-    --primary: #925cf0;
-    --primary-foreground: #f8fafc;
-    --card: #fcfcfe;
-    --border: rgba(9, 9, 11, 0.08);
-    --muted-primary: rgba(146, 92, 240, 0.5);
-    --muted-foreground: #64749a;
-    --secondary-button: #f1f5f9;
-    --input: #fcfcfe;
-    --skeleton-base-color: #e1e1f1;
+    --background: #fcf8fc;
+    --foreground: #290f26;
+    --primary: #f05cdc;
+    --primary-foreground: #fcf8fc;
+    --card: #fefcfe;
+    --border: rgba(11, 9, 10, 0.08);
+    --muted-primary: rgba(240, 92, 240, 0.5);
+    --muted-foreground: #99649a;
+    --secondary-button: #f8f1f9;
+    --input: #fefcfe;
+    --skeleton-base-color: #f1e1ef;
     --skeleton-highlight-color: #c5c5df;
   }
 
